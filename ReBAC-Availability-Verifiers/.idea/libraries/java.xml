@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-io/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-io/src/test/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-api/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-api/src/test/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-samples/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-algorithms/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-algorithms/src/test/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-graph-impl/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-graph-impl/src/test/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-visualization/src/main/java" />
+      <root url="file://$USER_HOME$/jung-read-only/jung/jung-visualization/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

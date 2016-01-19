@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sat4j-sat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sat4j-sat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
