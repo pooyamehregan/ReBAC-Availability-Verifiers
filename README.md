@@ -14,7 +14,9 @@ The ReBAC/MO consists of the Boolean combinations of atomic policies. The atomic
 
 . In the third verifier we adopt a completely differnet approach. We reduce the availability criteria into an Answer Set Programming problem. Then an ASP solver (i.e. clingo) is invoked to decide the availability criteria.
 
-The paper reporting the formalities for this implementation is still under review. We will provide a link to this paper as soon as it gets accepted!
+Please refer to the following paper for further readings:
+
+Pooya Mehregan and Philip W. L. Fong. Policy Negotiation for Co-owned Resources in Relationship-Based Access Control. In the Proceedings of 21st ACM Symposium on Access Control Models and Technologies (SACMAT 2016), Shanghai, China, June 6-8, 2016.
 
 Enjoy!
 
